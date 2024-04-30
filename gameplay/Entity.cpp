@@ -2,6 +2,7 @@
 
 goof::Entity::~Entity()
 {
+
 }
 
 
