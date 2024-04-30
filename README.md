@@ -10,9 +10,7 @@ used libs:<br />
 -stb_image<br />
 <br />
 
-![image](https://github.com/UnknownNeon/simple-goof_2d_3d/assets/52187026/9a941ee6-2d85-45fb-af47-2cec60a3cb5f)
-Ver0.1
-![image](https://github.com/UnknownNeon/simple-goof_2d_3d/assets/52187026/b19010d3-a46a-4ba8-90fa-6b21e4615d7e)
+![image](https://github.com/UnknownNeon/simple_goof/assets/52187026/19b9ba4a-0b05-40cb-a07a-68bec5a424c0)
 
 
 
